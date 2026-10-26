@@ -1,0 +1,21 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+
+# Temporary files and logs
+*.tmp
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
